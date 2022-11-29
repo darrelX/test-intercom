@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "firebase-tools": "^11.16.1",
     "uuid": "^9.0.0"
   }
 }
